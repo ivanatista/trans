@@ -3,7 +3,7 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
           <h1>
-            Agregar Comparación de Precios
+            Agregar Compras menores
             <small>Compras</small>
           </h1>
           <ol class="breadcrumb">

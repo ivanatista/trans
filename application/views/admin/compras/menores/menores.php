@@ -8,7 +8,7 @@
           </h1>
           <h4>
             <a href="<?=base_url()?>menores/add"><span class="label label-success">Crear Nueva Compra Menore</span></a>
-            <a <a href="<?=base_url()?>comparacion/comparaciont">
+            <a <a href="<?=base_url()?>menores/menorest">
               <small>Lista mensual</small>
             </a>
           </h4>
